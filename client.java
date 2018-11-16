@@ -2,9 +2,7 @@ package jhelp;
 
 
 
-**
- * 
- *
+/*
  * author Tulupov Sergei
  */
 
